@@ -1,4 +1,4 @@
-name: First Workflow
+name: build-docker-image-Workflow
 on: workflow_dispatch
 jobs:
   build-it-job:
